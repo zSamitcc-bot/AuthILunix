@@ -7,4 +7,6 @@ F   → Terminado
 FX  → Arreglando bugs
 
 *Functions*
+
 Auth [N/A]
+MYSQL [N/A]
